@@ -1,7 +1,15 @@
 <h1 align="center">
 Hi, I'm BADR Web Developer   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badrmorad&label=Profile%20views&color=0e75b6&style=flat" alt="badrmorad" /> </p>
-
+[
+](https://github.com/BadrMorad
+-------------------------
+💻 I am a web developer in training, passionate about backend development and modern web technologies.
+📝 Currently learning frameworks like Symfony and database management tools.
+🔭 Improving my skills in PHP, MySQL, HTML, CSS, and JavaScript.
+🌱 Exploring concepts like database management, APIs, and backend architecture.
+🌟 Main languages: PHP, MySQL, HTML, CSS, and JavaScript.
+🚩 Interested in building complete web applications with a focus on data management and server-side performance.)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/badr morad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badr morad" height="30" width="40" /></a>
