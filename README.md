@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm BADR Web Developer in Training </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">
+Hi, I'm Badr Morad!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badrmorad&label=Profile%20views&color=0e75b6&style=flat" alt="badrmorad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
