@@ -45,22 +45,32 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
+<!-- Custom GitHub Stats with modern design and animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrmorad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badrmorad&theme=radical&cardWidth=400&showIcons=true" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badrmorad&theme=radical&cardWidth=400" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badrmorad&theme=radical&cardWidth=400" alt="Most Commit Language" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrmorad&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badrmorad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badrmorad&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Add an SVG animation -->
+<!-- Floating Snake Animation on Contributions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- Add Floating Animations -->
 <style>
   @keyframes float {
     0%, 100% {
