@@ -1,18 +1,18 @@
 <h1 align="center">
-  <span style="display: inline-block; transform: rotate(10deg); animation: float 2s ease-in-out infinite;">👋</span>
-  Hi, I'm BADR - Web Developer
+  <span style="font-size: 36px; font-weight: bold; display: inline-block; animation: slideIn 3s ease-in-out;">👋</span>
+  <span style="display: inline-block; font-size: 36px; font-weight: bold; animation: slideIn 3s ease-in-out 0.5s;">Hi, I'm BADR</span><br />
+  <span style="font-size: 24px; font-weight: 400; display: inline-block; animation: slideIn 3s ease-in-out 1s;">Full Stack Developer from France</span>
 </h1>
-<h3 align="center">A passionate Full Stack Developer from France</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00CFFD&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+%26+creating!;Full+Stack+Developer;Open+to+collaborations+and+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00CFFD&width=500&lines=Passionate+about+coding+%26+creating+beautiful+web+applications!;Open+to+new+collaborations+%26+projects!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=badrmorad&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">💬 Connect with me:</h3>
+<h3 align="center" style="font-size: 22px; font-weight: bold; color: #1f4d85;">💬 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/badr-morad-258095319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">🔧 Languages and Tools:</h3>
+<h3 align="center" style="font-size: 22px; font-weight: bold; color: #1f4d85;">🔧 Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -44,8 +44,8 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<!-- Custom GitHub Stats with modern design and animation -->
+<h3 align="center" style="font-size: 22px; font-weight: bold; color: #1f4d85;">📊 GitHub Stats:</h3>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badrmorad&theme=radical&cardWidth=400&showIcons=true" alt="Profile Details" />
 </p>
@@ -72,12 +72,9 @@
 </p>
 
 <style>
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
+  @keyframes slideIn {
+    0% { transform: translateY(100%); opacity: 0; }
+    50% { transform: translateY(-20px); opacity: 0.8; }
+    100% { transform: translateY(0); opacity: 1; }
   }
 </style>
